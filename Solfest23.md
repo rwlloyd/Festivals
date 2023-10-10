@@ -15,7 +15,8 @@
 ### Useful equipment list
 
 - Paracord
-- safety pins
+- Ball of Cotton String
+- Safety pins
 
 Take a toolbox
 - scissors
