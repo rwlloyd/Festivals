@@ -46,11 +46,11 @@ If things change over the weekend, you've got a pen.
 | 0h30 |
 | 0030 - 0200 | Massilla SS    | 4 | 4 | 2100 - Close | | 
 
-### Saturday
+### Sunday
 | Times | Artist | Members | DR# | DR Times | Notes |
 |---|---|---|---|---|---|
 |  1230 - 1345 | Harp & a monkey (&Choir) | 2+ | 1 | Open - Boredom | 32 person Choir |
-| 1h30 |
+| 1h30 | || 4 | Open - 1500 |
 |  1515 - 1630 | Sisterhood               |  7 | 2 | Open - 1730 | 8 meal tickets |
 |              |                          |    | 3 | Open - 1730 | |
 | 1h30 |
