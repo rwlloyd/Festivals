@@ -2,6 +2,7 @@
 
 ## Main Stage Gantt
 
+```mermaid
 gantt
     title Main Stage
     dateFormat HH:mm 
@@ -36,5 +37,6 @@ gantt
     Break : 90m
     ONIPA : 75m
     Close : milestone, m6, 22:30, 4m
+```
 
 [Index](../Musicport23.md)
