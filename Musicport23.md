@@ -35,12 +35,12 @@ If things change over the weekend, you've got a pen.
 | 1300 - 1400 | Mairi Campbell |   | 1 | Open - 1500 | Big Millstone for stage, Chair. |
 | 1h15 |
 | 1515 - 1630 | Pete Atkin     |   | 2 | Open - 1730 | NTS. |
-| 2h15 |
-| 1845 - 1930 | Hejira Project | 7 | 4 | Open - 2030 | Own Backline? |
-|             |                |   | 1 | 1500 - 2030 |  |
-| 0h30 |
-| 2000 - 2100 | Gasper Nali    | 1 | 2 | 1800 - ?    |  |
 | 1h45 |
+| 1815 - 1930 | Hejira Project | 7 | 4 | Open - 2030 | Own Backline? |
+|             |                |   | 1 | 1500 - 2030 |  |
+| 1h |
+| 2030 - 2130 | Gasper Nali    | 1 | 2 | 1800 - ?    |  |
+| 1h15 |
 | 2245 - 0000 | Souad Massi    | 5 | 1 | 2030 - Close | Dressing room key? |
 |             |                |   | 3 | Open - Close | |
 | 0h30 |
