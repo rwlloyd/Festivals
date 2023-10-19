@@ -18,6 +18,8 @@ If things change over the weekend, you've got a pen.
 
 - [GDrive](https://drive.google.com/drive/folders/1gEQrz5yg2ArXwWQ9UqjvI7DMlquL1Rcy)
 
+Stewards briefing 1700 theatre bar
+
 ---
 
 ## Main Stage
