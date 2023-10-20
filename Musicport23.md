@@ -27,7 +27,7 @@ Stewards briefing 1700 theatre bar
 ### Friday
 | Times | Artist | Members | DR# | DR Times | Notes |
 |---|---|---|---|---|---|
-| 1930 - 2045 | Jasdeep Singh Bahra | 2 | 2 | All Day | Carpeted Risers. Clean them before gig
+| 1930 - 2045 | Jasdeep Singh Bahra | 2 | 3 | All Day | Carpeted Risers. Clean them before gig
 | 1h45 |
 | 2230 - 2345 | Ubunye | 7| 4|All Day||
 
