@@ -1,6 +1,6 @@
 # Musicport 2023
 
-Hopefully needless to say, but this page contains some details that we may be considered sensitive. 
+Hopefully needless to say, but this page contains some details that may be considered sensitive. 
 
 __ !! DO NOT SHARE THIS WITH PATRONS !! __
 
