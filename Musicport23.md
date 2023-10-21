@@ -1,4 +1,4 @@
-⁹# Musicport 2023
+# Musicport 2023
 
 Hopefully needless to say, but this page contains some details that may be considered sensitive. 
 
