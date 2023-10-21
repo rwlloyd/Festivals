@@ -1,4 +1,4 @@
-# Musicport 2023
+⁹# Musicport 2023
 
 Hopefully needless to say, but this page contains some details that may be considered sensitive. 
 
@@ -66,6 +66,7 @@ NTS - No Tech Spec
 # Questions
 
 - Do we have arrival times 
+- hello sue
 - Who's doing meal + drinks tickets
 
 ---
