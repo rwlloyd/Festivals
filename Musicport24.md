@@ -67,7 +67,7 @@ Stewards briefing:
 | 1400 - 1500 | CHAHAT MEHMOOD ALI QAWWAL |  ? | ? | [layout](https://drive.google.com/file/d/1uEkxEbWwVNTIksnvdxc3_dDl2BA8pb0N/view?usp=drive_link) [channel](https://drive.google.com/file/d/1FQ2u3RsUoOUBdXfO-2fMxw2kZ2PFYsPM/view?usp=drive_link) | 
 | 1500 - 1545 | Workshop JOHN DRAKES, THE BENEFITS OF HONEY FOR HEALTH |  ? | ? | ? | 
 | 0h45 |
-| 1630 - 1745 | [ORCHESTRA MAMBO INTERNATIONAL](https://drive.google.com/file/d/14iaXTGYG1FK_J0CWDnWVJxG02Z9LZTjg/view?usp=drive_link) |  ? | ? | ? | 
+| 1630 - 1745 | [ORCHESTRA MAMBO INTERNATIONAL](https://drive.google.com/file/d/14iaXTGYG1FK_J0CWDnWVJxG02Z9LZTjg/view?usp=drive_link) |  ? | ? | ? | 12x music stands
 | 1h15 |
 | 1900 - 2000 | [JUSTIN ADAMS & MAURO DURANTE](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link) | ? | ? | ? | 
 | 1h30 |
