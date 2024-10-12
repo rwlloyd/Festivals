@@ -31,11 +31,11 @@ Stewards briefing:
 [Advance Pack 2024](https://docs.google.com/document/d/1YPNTKGj0zfVGoWutvdYM1Z8V99YjLFe72Lf_v2ZGhKY/edit?usp=drive_link): All bands should have got a copy
 
 ### Friday
-| Times | Artist | Members | DR# | DR Times | Notes | Rider |
-|---|---|---|---|---|---|---|
-| 1945 - 2045 | [Rokia Kone](https://drive.google.com/file/d/1OAcbTupmhEOAPdq1iRDPBPcI-qOa-PNW/view?usp=drive_link) | ?   | ?        | ?     | |
+| Times | Artist | Members | DR# | DR Times | Notes | 
+|---|---|---|---|---|---|
+| 1945 - 2045 | [Rokia Kone](https://drive.google.com/file/d/1OAcbTupmhEOAPdq1iRDPBPcI-qOa-PNW/view?usp=drive_link) | 3(+2)  | ?        | ?     | table/case for calabash |
 | 1h30 |
-| 2215 - 2330 | [Jah Wobble's Invaders of the Heart](https://drive.google.com/file/d/1vpEuNzvz9Ruum5Iigzmk7_mJ3I75RQTp/view?usp=drive_link) | ? | ? | ? |  |
+| 2215 - 2330 | [Jah Wobble's Invaders of the Heart](https://drive.google.com/file/d/1vpEuNzvz9Ruum5Iigzmk7_mJ3I75RQTp/view?usp=drive_link) | 4 | ? | ? | 1xChair + Piano Stool |
 
 ### Saturday
 | Times | Artist | Members | DR# | DR Times | Notes |
@@ -82,6 +82,7 @@ NTS - No Tech Spec
 - Dressing Rooms
 - Do we have arrival times and contacts as working doc?
 - Who's doing meal + drinks tickets? AL or SM?
+- Merch. Little table or central?
 
 - ACSS load-in on Sat + Store trailer of gear until sunday night (theatre green room area?)
 - Divahana on risers?
