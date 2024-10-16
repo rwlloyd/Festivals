@@ -4,7 +4,7 @@ Hopefully needless to say, but this page contains some details that may be consi
 
 __ !! DO NOT SHARE THIS WITH PATRONS !! __
 
-This information is correct as of 12/10/24
+This information is correct as of 16/10/24
 
 If things change over the weekend, you've got a pen.
 
