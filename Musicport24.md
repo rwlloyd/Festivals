@@ -33,45 +33,45 @@ Stewards briefing:
 ### Friday
 | Times | Artist | Members | DR# | DR Times | Notes | 
 |---|---|---|---|---|---|
-| 1945 - 2045 | [Rokia Kone](https://drive.google.com/file/d/1OAcbTupmhEOAPdq1iRDPBPcI-qOa-PNW/view?usp=drive_link) | 3(+2)  | ?        | ?     | table/case for calabash |
+| 1945 - 2045 | [Rokia Kone](https://drive.google.com/file/d/1OAcbTupmhEOAPdq1iRDPBPcI-qOa-PNW/view?usp=drive_link) | 3(+2)  | 3 +1  | start - 12.30  | table/case for calabash |
 | 1h30 |
-| 2215 - 2330 | [Jah Wobble's Invaders of the Heart](https://drive.google.com/file/d/1vpEuNzvz9Ruum5Iigzmk7_mJ3I75RQTp/view?usp=drive_link) | 4 | ? | ? | 1xChair + Piano Stool |
+| 2215 - 2330 | [Jah Wobble's Invaders of the Heart](https://drive.google.com/file/d/1vpEuNzvz9Ruum5Iigzmk7_mJ3I75RQTp/view?usp=drive_link) | 4 | 4 | all day | 1xChair + Piano Stool |
 
 ### Saturday
 | Times | Artist | Members | DR# | DR Times | Notes |
 |---|---|---|---|---|---|
-| 1130 - 1200 | MAMBO JAMBO SCHOOL SHORT PERFORMANCE | ? | ? | ? | NTS
+| 1130 - 1200 | MAMBO JAMBO SCHOOL SHORT PERFORMANCE | 2 | 4? | start - 12.30 | NTS
 | 1h0 |
-| 1300 - 1400 | [MONSTER CEILIDH BAND](https://drive.google.com/drive/folders/1NoVf2GMDr_vDf_pOeYvltG9peZ5dZ3JQ?usp=drive_link) | 5 | ? | ? | 
+| 1300 - 1400 | [MONSTER CEILIDH BAND](https://drive.google.com/drive/folders/1NoVf2GMDr_vDf_pOeYvltG9peZ5dZ3JQ?usp=drive_link) | 5 | 3 | start - 1500 | 
 | 1h30 |
-| 1530 - 1630 | [PANKISI ENSEMBLE](https://docs.google.com/document/d/1tmHewZdF9sO7IGuZaTYsuPBv_yoiHfl2/edit?usp=drive_link&ouid=116129546041858294229&rtpof=true&sd=true) | 4 | ? | ? | N
+| 1530 - 1630 | [PANKISI ENSEMBLE](https://docs.google.com/document/d/1tmHewZdF9sO7IGuZaTYsuPBv_yoiHfl2/edit?usp=drive_link&ouid=116129546041858294229&rtpof=true&sd=true) | 4 | 4 | 1230 - 1800 | N
 | 0h30 |
-| 1700 - 1745 | Workshop SINGING FOR MENTAL HEALTH (Rachel) | 1 | ? | ? | NTS
+| 1700 - 1745 | Workshop SINGING FOR MENTAL HEALTH (Rachel) | 1 | ? | - | NTS
 | 0h15 |
-| 1800 - 1900 | [ALICIA EDELWEISS QUARTET](https://drive.google.com/file/d/1Ipt2wIhE4-kBzQz3DgPu3ZnPhT_bTyKk/view?usp=drive_link) | 4(1?) | ? | ? | 
+| 1800 - 1900 | [ALICIA EDELWEISS QUARTET](https://drive.google.com/file/d/1Ipt2wIhE4-kBzQz3DgPu3ZnPhT_bTyKk/view?usp=drive_link) | 4(1?) | 1+2? | 16.30 - 2000 | 
 | 1h30 |
-| 2030 - 2145 | [DIVANHANA](https://drive.google.com/file/d/1T8cfgat9mdUsPS6kc0heO8T9LZ28T9FX/view?usp=drive_link) | 6 | ? | ? | [Backline](https://drive.google.com/file/d/1kQhzjIloYiEWvajSlSYdeUY38JJE5dCM/view?usp=drive_link)
+| 2030 - 2145 | [DIVANHANA](https://drive.google.com/file/d/1T8cfgat9mdUsPS6kc0heO8T9LZ28T9FX/view?usp=drive_link) | 6 | 3 | 15.30 - close | [Backline](https://drive.google.com/file/d/1kQhzjIloYiEWvajSlSYdeUY38JJE5dCM/view?usp=drive_link)
 | 1h30 |
-| 2315 - 0030 | [FULU MIZIKI](https://drive.google.com/file/d/1fy12iO0gZ4-wdeF-InUVqhJQW5NIN7ji/view?usp=drive_link) | 6(+2) | ? | ? | 
+| 2315 - 0030 | [FULU MIZIKI](https://drive.google.com/file/d/1fy12iO0gZ4-wdeF-InUVqhJQW5NIN7ji/view?usp=drive_link) | 6(+2) | 4 | 1830 - close | 
 
 
 ### Sunday
 | Times | Artist | Members | DR# | DR Times | Notes |
 |---|---|---|---|---|---|
-|1000 - 1045 | Workshop SYLVIA JAY - Somatic Movement | 1+crowd | ? | ? | NTS
+|1000 - 1045 | Workshop SYLVIA JAY - Somatic Movement | 1+crowd | Stageside | - | NTS
 | 0h45 |
-| 1130 - 1230 | TASHI LHUNPO MONKS | 8 | ? | ? |  NTS
+| 1130 - 1230 | TASHI LHUNPO MONKS | 8 | 4 | open - 1300 |  NTS
 | 0h30 |
-| 1300 - 1345 | Workshop [JUSTIN ADAMS](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link)  | 2+crowd | ? | ? | Tarantella, trance and the Sacred Heart of Rock and Roll | 
+| 1300 - 1345 | Workshop [JUSTIN ADAMS](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link)  | 2+crowd | 1 | All Day | Tarantella, trance and the Sacred Heart of Rock and Roll | 
 | 0h15 |
-| 1400 - 1500 | CHAHAT MEHMOOD ALI QAWWAL |  <10? | ? | [layout](https://drive.google.com/file/d/1uEkxEbWwVNTIksnvdxc3_dDl2BA8pb0N/view?usp=drive_link) [channel](https://drive.google.com/file/d/1FQ2u3RsUoOUBdXfO-2fMxw2kZ2PFYsPM/view?usp=drive_link) | 
-| 1500 - 1545 | Workshop JOHN DRAKES, THE BENEFITS OF HONEY FOR HEALTH |  ? | ? | ? | 
+| 1400 - 1500 | CHAHAT MEHMOOD ALI QAWWAL |  <10? | 3 | 1330 - 1545 | [layout](https://drive.google.com/file/d/1uEkxEbWwVNTIksnvdxc3_dDl2BA8pb0N/view?usp=drive_link) [channel](https://drive.google.com/file/d/1FQ2u3RsUoOUBdXfO-2fMxw2kZ2PFYsPM/view?usp=drive_link) | 
+| 1500 - 1545 | Workshop JOHN DRAKES, THE BENEFITS OF HONEY FOR HEALTH | 1? | Stageside | - | 
 | 0h45 |
-| 1630 - 1745 | [ORCHESTRA MAMBO INTERNATIONAL](https://drive.google.com/file/d/14iaXTGYG1FK_J0CWDnWVJxG02Z9LZTjg/view?usp=drive_link) | 12 | ? | ? | 12x music stands
+| 1630 - 1745 | [ORCHESTRA MAMBO INTERNATIONAL](https://drive.google.com/file/d/14iaXTGYG1FK_J0CWDnWVJxG02Z9LZTjg/view?usp=drive_link) | 12 | 4(+2?) | 1400 - 1900 | 12x music stands
 | 1h15 |
-| 1900 - 2000 | [JUSTIN ADAMS & MAURO DURANTE](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link) | 2 | ? | ? | 
+| 1900 - 2000 | [JUSTIN ADAMS & MAURO DURANTE](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link) | 2 | 1 | All day | 
 | 1h30 |
-| 2130 - 2230 | AFRO CELT SOUND SYSTEM |  5? | ? | ? | [plot](https://drive.google.com/file/d/1kei4Ag1u3vAUKXGXRegUUXuM07qmV8Mx/view?usp=drive_link) [patch](https://drive.google.com/file/d/11dHI_ABYOu-mh7ExYkana1rz9emwRZ3x/view?usp=drive_link)
+| 2130 - 2230 | AFRO CELT SOUND SYSTEM |  5? | 4 | 1930 - close | [plot](https://drive.google.com/file/d/1kei4Ag1u3vAUKXGXRegUUXuM07qmV8Mx/view?usp=drive_link) [patch](https://drive.google.com/file/d/11dHI_ABYOu-mh7ExYkana1rz9emwRZ3x/view?usp=drive_link)
 | Stage Closes |
 
 Key:
