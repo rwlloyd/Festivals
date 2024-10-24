@@ -33,7 +33,10 @@ Stewards briefing:
 ### Friday
 | Times | Artist | Members | DR# | DR Times | Notes | 
 |---|---|---|---|---|---|
+| 1700 | Doors Open |
+|1h15|
 | 1815 - 1915 | TASHI LONG HORNS | 7? | 1 + 2 | All | No Idea yet
+|0h30|
 | 1945 - 2045 | [Rokia Kone](https://drive.google.com/file/d/1OAcbTupmhEOAPdq1iRDPBPcI-qOa-PNW/view?usp=drive_link) | 3(+2)  | 3 +1  | start - 12.30  | table/case for calabash |
 | 1h30 |
 | 2215 - 2330 | [Jah Wobble's Invaders of the Heart](https://drive.google.com/file/d/1vpEuNzvz9Ruum5Iigzmk7_mJ3I75RQTp/view?usp=drive_link) | 4 | 4 | all day | 1xChair + Piano Stool |
@@ -41,6 +44,8 @@ Stewards briefing:
 ### Saturday
 | Times | Artist | Members | DR# | DR Times | Notes |
 |---|---|---|---|---|---|
+|0900| Doors Open |
+|1h30|
 | 1130 - 1200 | MAMBO JAMBO SCHOOL SHORT PERFORMANCE | 2 | 4? | start - 12.30 | NTS
 | 1h0 |
 | 1300 - 1400 | [MONSTER CEILIDH BAND](https://drive.google.com/drive/folders/1NoVf2GMDr_vDf_pOeYvltG9peZ5dZ3JQ?usp=drive_link) | 5 | 3 | start - 1500 | 
@@ -57,15 +62,13 @@ Stewards briefing:
 ### Sunday
 | Times | Artist | Members | DR# | DR Times | Notes |
 |---|---|---|---|---|---|
+|0900| Doors open |
 |1000 - 1045 | Workshop SYLVIA JAY - Somatic Movement | 1+crowd | Stageside | - | NTS
 | 0h45 |
 | 1130 - 1230 | TASHI LHUNPO MONKS | 8 | 4 | open - 1300 |  NTS
-| 0h30 |
-| 1300 - 1345 | Workshop [JUSTIN ADAMS](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link)  | 2+crowd | 1 | All Day | Tarantella, trance and the Sacred Heart of Rock and Roll | 
-| 0h15 |
+| 1h30 |
 | 1400 - 1500 | CHAHAT MEHMOOD ALI QAWWAL |  <10? | 3 | 1330 - 1545 | [layout](https://drive.google.com/file/d/1uEkxEbWwVNTIksnvdxc3_dDl2BA8pb0N/view?usp=drive_link) [channel](https://drive.google.com/file/d/1FQ2u3RsUoOUBdXfO-2fMxw2kZ2PFYsPM/view?usp=drive_link) | 
-| 1500 - 1545 | Workshop JOHN DRAKES, THE BENEFITS OF HONEY FOR HEALTH | 1? | Stageside | - | 
-| 0h45 |
+| 1h30 |
 | 1630 - 1745 | [ORCHESTRA MAMBO INTERNATIONAL](https://drive.google.com/file/d/14iaXTGYG1FK_J0CWDnWVJxG02Z9LZTjg/view?usp=drive_link) | 12 | 4(+2?) | 1400 - 1900 | 12x music stands
 | 1h15 |
 | 1900 - 2000 | [JUSTIN ADAMS & MAURO DURANTE](https://drive.google.com/file/d/1m4fyHkbYMKwQjNd3lIehs67ZRMbiefa5/view?usp=drive_link) | 2 | 1 | All day | 
