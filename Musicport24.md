@@ -52,9 +52,9 @@ Stewards briefing:
 | 1h30 |
 | 1530 - 1630 | [PANKISI ENSEMBLE](https://docs.google.com/document/d/1tmHewZdF9sO7IGuZaTYsuPBv_yoiHfl2/edit?usp=drive_link&ouid=116129546041858294229&rtpof=true&sd=true) | 4 | 4 | 1230 - 1800 | N
 | 1h30 |
-| 1800 - 1900 | [ALICIA EDELWEISS QUARTET](https://drive.google.com/file/d/1Ipt2wIhE4-kBzQz3DgPu3ZnPhT_bTyKk/view?usp=drive_link) | 1 | 1+2? | 16.30 - 2000 | Is this a quartet?
+| 1800 - 1900 | [ALICIA EDELWEISS ](https://drive.google.com/file/d/1Ipt2wIhE4-kBzQz3DgPu3ZnPhT_bTyKk/view?usp=drive_link) | 1 | 1 | 16.30 - 2000 | Is this a quartet?
 | 1h30 |
-| 2030 - 2145 | [DIVANHANA](https://drive.google.com/file/d/1T8cfgat9mdUsPS6kc0heO8T9LZ28T9FX/view?usp=drive_link) | 6 | 3 | 15.30 - close | [Backline](https://drive.google.com/file/d/1kQhzjIloYiEWvajSlSYdeUY38JJE5dCM/view?usp=drive_link)
+| 2030 - 2145 | [DIVANHANA](https://drive.google.com/file/d/1T8cfgat9mdUsPS6kc0heO8T9LZ28T9FX/view?usp=drive_link) | 6 | 3+2 | 15.30 - close | [Backline](https://drive.google.com/file/d/1kQhzjIloYiEWvajSlSYdeUY38JJE5dCM/view?usp=drive_link)
 | 1h30 |
 | 2315 - 0030 | [FULU MIZIKI](https://drive.google.com/file/d/1fy12iO0gZ4-wdeF-InUVqhJQW5NIN7ji/view?usp=drive_link) | 6(+2) | 4 | 1830 - close | 
 
