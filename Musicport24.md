@@ -33,6 +33,7 @@ Stewards briefing:
 ### Friday
 | Times | Artist | Members | DR# | DR Times | Notes | 
 |---|---|---|---|---|---|
+| 1815 - 1915 | TASHI LONG HORNS | 7? | 1 + 2 | All | No Idea yet
 | 1945 - 2045 | [Rokia Kone](https://drive.google.com/file/d/1OAcbTupmhEOAPdq1iRDPBPcI-qOa-PNW/view?usp=drive_link) | 3(+2)  | 3 +1  | start - 12.30  | table/case for calabash |
 | 1h30 |
 | 2215 - 2330 | [Jah Wobble's Invaders of the Heart](https://drive.google.com/file/d/1vpEuNzvz9Ruum5Iigzmk7_mJ3I75RQTp/view?usp=drive_link) | 4 | 4 | all day | 1xChair + Piano Stool |
@@ -45,10 +46,8 @@ Stewards briefing:
 | 1300 - 1400 | [MONSTER CEILIDH BAND](https://drive.google.com/drive/folders/1NoVf2GMDr_vDf_pOeYvltG9peZ5dZ3JQ?usp=drive_link) | 5 | 3 | start - 1500 | 
 | 1h30 |
 | 1530 - 1630 | [PANKISI ENSEMBLE](https://docs.google.com/document/d/1tmHewZdF9sO7IGuZaTYsuPBv_yoiHfl2/edit?usp=drive_link&ouid=116129546041858294229&rtpof=true&sd=true) | 4 | 4 | 1230 - 1800 | N
-| 0h30 |
-| 1700 - 1745 | Workshop SINGING FOR MENTAL HEALTH (Rachel) | 1 | ? | - | NTS
-| 0h15 |
-| 1800 - 1900 | [ALICIA EDELWEISS QUARTET](https://drive.google.com/file/d/1Ipt2wIhE4-kBzQz3DgPu3ZnPhT_bTyKk/view?usp=drive_link) | 4(1?) | 1+2? | 16.30 - 2000 | 
+| 1h30 |
+| 1800 - 1900 | [ALICIA EDELWEISS QUARTET](https://drive.google.com/file/d/1Ipt2wIhE4-kBzQz3DgPu3ZnPhT_bTyKk/view?usp=drive_link) | 1 | 1+2? | 16.30 - 2000 | Is this a quartet?
 | 1h30 |
 | 2030 - 2145 | [DIVANHANA](https://drive.google.com/file/d/1T8cfgat9mdUsPS6kc0heO8T9LZ28T9FX/view?usp=drive_link) | 6 | 3 | 15.30 - close | [Backline](https://drive.google.com/file/d/1kQhzjIloYiEWvajSlSYdeUY38JJE5dCM/view?usp=drive_link)
 | 1h30 |
@@ -79,10 +78,14 @@ NTS - No Tech Spec
 
 # Questions
 
+General 
+
 - Dressing Rooms
 - Do we have arrival times and contacts as working doc?
 - Who's doing meal + drinks tickets? AL or SM?
 - Merch. Little table or central?
+
+Bespoke
 
 - ACSS load-in on Sat + Store trailer of gear until sunday night (theatre green room area?)
 - Divahana on risers?
