@@ -1,4 +1,4 @@
-# Musicport 2024
+# Musicport 2025
 
 Hopefully needless to say, but this page contains some details that may be considered sensitive. 
 
@@ -6,21 +6,9 @@ __ !! DO NOT SHARE THIS WITH PATRONS !! __
 
 This information is correct as of 23/10/25
 
-If things change over the weekend, you've got a pen.
-
-- [Main Stage](Musicport24.md#main-stage)
-
-- [Theatre](Musicport24.md#theatre)
-
-- [North Sea Stage](Musicport24.md#north-sea-stage)
-
-- [Cafe / Hub](Musicport24.md#cafe)
-
-- [Royal Hotel](Musicport24.md#the-royal-hotel)
-
 ---
 
-- [GDrive](https://drive.google.com/drive/folders/1qHtQ-pQXLB5dbcDeDtPClaGlKPj-1mns)
+- [GDrive - Tech Riders](https://drive.google.com/drive/folders/1ZjqnsPyhUg3yCFl4dVuLjQD0yYqF8kgZ?usp=drive_link)
 
 Stewards briefing: 
 
@@ -28,7 +16,7 @@ Stewards briefing:
 
 ## Main Stage
 
-[Advance Pack 2024](https://docs.google.com/document/d/1YPNTKGj0zfVGoWutvdYM1Z8V99YjLFe72Lf_v2ZGhKY/edit?usp=drive_link): All bands should have got a copy
+[Advance Pack 2025](https://drive.google.com/drive/folders/1laCXG6j8rwCyXkNfKwSlTVypvZ_ZOhUl?usp=drive_link): All bands should have got a copy
 
 ### Friday
 | Times | Artist | Members | DR# | DR Times | Notes | 
@@ -45,7 +33,7 @@ Stewards briefing:
 |---|---|---|---|---|---|
 |1100| Doors Open |
 |1h00|
-| 1200 - 1300 | SPARTIMU | 4 | 5 | start - 1400 | 
+| 1200 - 1300 | SPARTIMU | 5 | 4 | start - 1400 | 
 | 0h45 |
 | 1345 - 1445 | O'HOOLEY & TIDOW | 2 | 2 | start - 1530 | 
 | 0h45 |
@@ -53,7 +41,7 @@ Stewards briefing:
 | 0h45 |
 | 1715 - 1815 | OLCAY BAYIR | 1 | 4 | 1500 - 1700 | 
 | 0h45 |
-| 1900 - 2000 | ZAWOSE QUEENS | ? | 3+2 | 1730 - 2100 | 
+| 1900 - 2000 | ZAWOSE QUEENS | ? | 4 | 1730 - 2100 | 
 | 1h00 |
 | 2100 - 2200 | STATE OF SATTA | 7 | 3 | 1700 - close | 
 | 1h00 |
@@ -68,12 +56,23 @@ Stewards briefing:
 | 1h00 |
 | 1500 - 1600 | AKOLA TAMBO | 10 | 2 + 3 | open - 1700 |  
 | 1H00 |
-| 1700 - 1800 | MUITO KABALLA |  9 | 1 | 1500 - 1900 |   | 
+| 1700 - 1800 | MUITO KABALLA |  9 | 1 + 4 | 1600 - 1900 |   | 
 | 1h00 |
 | 1900 - 2000 | KATHRYN TICKELL AND THE DARKENING | 5 | 3 | 1800 - Close | 
 | 1h00 |
-| 2100 - 2200 | ASERE | 6 | 1 + 4 | 1930 - Close | 
+| 2100 - 2200 | ASERE | 6 | 1 + 4 | 1930 - Close |
 
+## Extras
+
+### Saturday
+
+- Youthie DR2 1600 - 1800
+
+- Sound of the Sirens DR2 1900 - 2200
+
+### Sunday
+
+- Funke and the 2 tone Baby - DR2 - 1800 - Close
 
 Key:
 NTS - No Tech Spec
