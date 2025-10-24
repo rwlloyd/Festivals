@@ -1,5 +1,7 @@
 # Musicport 2025
 
+![Clash Finder / Lineup](./signal-2025-10-23-173431_002.jpeg)
+
 Hopefully needless to say, but this page contains some details that may be considered sensitive. 
 
 __ !! DO NOT SHARE THIS WITH PATRONS !! __
