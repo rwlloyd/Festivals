@@ -2,6 +2,8 @@
 
 ## Navigation
 
+[Site Induction Doc](./Chelsea26_assets/Chelsea%20Site%20Induction.pdf)
+
 [Site Map & Welfare](#site-map-and-welfare)
 
 [Site Access](#site-access)
@@ -17,6 +19,12 @@
 []()
 
 [Questions]()
+
+<hr>
+
+## Site Induction Doc
+
+[Site Induction Document](./Chelsea26_assets/Chelsea%20Site%20Induction.pdf)
 
 ## Site Map and Welfare
 
