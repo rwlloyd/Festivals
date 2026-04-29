@@ -1,85 +1,74 @@
-# Musicport 2025
+# Chelsea Flower Show 2026
 
-![Clash Finder / Lineup](./Musicport25_assets/signal-2025-10-23-173431_002.jpeg)
+## Navigation
 
-Hopefully needless to say, but this page contains some details that may be considered sensitive. 
+[Site Map & Welfare](#site-map-and-welfare)
 
-__ !! DO NOT SHARE THIS WITH PATRONS !! __
+[Site Access](#site-access)
 
-This information is correct as of 23/10/25
+[PPE](#ppe)
 
----
+[Site opening Hours](#site-opening-hours)
 
-- [GDrive - Tech Riders](https://drive.google.com/drive/folders/1ZjqnsPyhUg3yCFl4dVuLjQD0yYqF8kgZ?usp=drive_link)
+[Site Contact Numbers](#site-contact-numbers)
 
-Stewards briefing: 
+[Welfare Arrangements](#welfare-arrangements)
+[]()
+[]()
 
----
+[Questions]()
 
-## Main Stage
+## Site Map and Welfare
 
-[Advance Pack 2025](https://drive.google.com/drive/folders/1laCXG6j8rwCyXkNfKwSlTVypvZ_ZOhUl?usp=drive_link): All bands should have got a copy
+![SitePlan](./Chelsea26_assets/Screenshot%20from%202026-04-29%2010-30-57.png)
+[Site Plan PDF - HIGH RES](./Chelsea26_assets/RHS%20-%20Site_Induction_Welfare_Plan_CFS.pdf)
 
-### Friday
-| Times | Artist | Members | DR# | DR Times | Notes | 
-|---|---|---|---|---|---|
-| 1700 | Doors Open |
-|3h|
-| 2000 - 2100 | AN DANNSA DUB | 6 | 4 | All | 
-|1h15|
-| 2215 - 2330 | K.O.G | 10  | 2 + 3  | All  |  |
+## Site Access:
+
+RHS Chelsea Flower Show, Bull Ring Gate, London, SW3 4LW.
+
+https://what3words.com/bucks.fact.state
+
+https://www.google.co.uk/maps/place/51%C2%B029'07.0%22N+0%C2%B009'16.2%22W/@51.4852778,-0.1545,17z/data=!3m1!4b1!4m4!3m3!8m2!3d51.4852778!4d-0.1545!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D
+
+<b>The shows team</b>, including operations and health & safety, can be found in the Organisers Compound which is located near <b>Bull Ring Gate</b> for all your queries.
+
+Accreditation is only available at Bull Ring Gate, if you need to request or collect access passes you must enter site at this gate.
+
+All access passes must be scanned on entry to site and carried on your person at all times.
+
+## PPE
+
+![PPE](./Chelsea26_assets/PPE%20image.jpeg)
+
+High Visibility Vests (must be flourescent) and safety footwear must be worn at all times during build up and breakdown.
+
+Other PPE may be required such as safety helmet, eye and hearing protection, and gloves in accordance with your own risk assessments or work activity.
+
+## Site opening Hours
+
+![Opening Hours](./Chelsea26_assets/Chelsea%2026%20Site%20Hours.png)
+
+## Site Contact Numbers
+
+![Site Phone Numbers](./Chelsea26_assets/Chelsea%20Site%20Phone.jpeg)
+
+## Welfare Arrangements
+
+Water: Drinking water points are located across site, only use points labelled 'Drinking Water'.
+
+Toilet & Hand Wash: Use the toilets and hand wash facilities provided across site, do not pollute the area.
+
+Rest: You can rest in the Crew (Exhibitor) Restaurant where there is undercover seating and free tea & coffee.
+
+Catering Restaurant: Served from Saturday 2 May - Tuesday 26 May
+
+Wi-Fi: Free Wi-Fi hotspots across the site, these are designed for basic work-related functions only.
 
 
-### Saturday
-| Times | Artist | Members | DR# | DR Times | Notes |
-|---|---|---|---|---|---|
-|1100| Doors Open |
-|1h00|
-| 1200 - 1300 | SPARTIMU | 5 | 4 | start - 1400 | 
-| 0h45 |
-| 1345 - 1445 | O'HOOLEY & TIDOW | 2 | 2 | start - 1530 | 
-| 0h45 |
-| 1530 - 1630 | MELODIES ACROSS CONTINENTS | 2 | 3 | Open - 1700 | 
-| 0h45 |
-| 1715 - 1815 | OLCAY BAYIR | 1 | 4 | 1500 - 1700 | 
-| 0h45 |
-| 1900 - 2000 | ZAWOSE QUEENS | ? | 4 | 1730 - 2100 | 
-| 1h00 |
-| 2100 - 2200 | STATE OF SATTA | 7 | 3 | 1700 - close | 
-| 1h00 |
-| 2300 - 0030 | MOSTAR SEVDAH REUNION | 7 | 1 + 4 | 2130 - close |
 
 
-### Sunday
-| Times | Artist | Members | DR# | DR Times | Notes |
-|---|---|---|---|---|---|
-| 1200 | Doors open |
-| 1300 - 1400 | MAMBO JAMBO and JOE MARTIN | 3 | 4 | Open - 1500 | 
-| 1h00 |
-| 1500 - 1600 | AKOLA TAMBO | 10 | 2 + 3 | open - 1700 |  
-| 1H00 |
-| 1700 - 1800 | MUITO KABALLA |  9 | 1 + 4 | 1600 - 1900 |   | 
-| 1h00 |
-| 1900 - 2000 | KATHRYN TICKELL AND THE DARKENING | 5 | 3 | 1800 - Close | 
-| 1h00 |
-| 2100 - 2200 | ASERE | 6 | 1 + 4 | 1930 - Close |
-
-## Extras
-
-### Saturday
-
-- Youthie DR2 1600 - 1800
-
-- Sound of the Sirens DR2 1900 - 2200
-
-### Sunday
-
-- Funke and the 2 tone Baby - DR2 - 1800 - Close
-
-Key:
-NTS - No Tech Spec
-
-# Questions
+## Questions
 
 
 
