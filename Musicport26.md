@@ -75,7 +75,7 @@ DR Times reserve each room from 45 minutes before to 45 minutes after the stage 
 
 | Day | Room 1 | Room 2 | Room 3 | Room 4 |
 |---|---|---|---|---|
-| Fri | Peace Artistes 1645-1900 | free | Kefaya 2130-0015 | Hope and Social 1900-2130 |
+| Fri | Peace Artistes 1645-1900 | Empty | Me and My Friends 1900-2015 (No Nuts!), Kefaya 2130-0015 | Hope and Social 1900-2130 |
 | Sat | Aluca Trio 1115-1345, Eliza Carthy 1610-1850 | Eliza Carthy 1610-1850 | Suntou Susso 1345-1615, Romano Drom 2115-0000 | Parade 0915-1215, Saigon Soul Revival 1845-2115 |
 | Sun | Debasmita 0845-1115, Boubacar Samake 1600-1830, Ibibio 2045-2330 | Qadasi and Maqhinga 1115-1345, Boubacar Samake 1600-1830 | Briana Corrigan 1345-1615, Gnawa Blues All Stars 1815-2045 | Ibibio 2045-2330 |
 
