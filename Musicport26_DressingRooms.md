@@ -21,7 +21,7 @@ gantt
     Free all day :done, 2026-10-16 16:00, 2026-10-17 00:45
     section Room 3
     Free :done, 2026-10-16 16:00, 2026-10-16 19:00
-    Me and My Friends :active, 2026-10-16 19:00, 2026-10-16 20:15, 
+    Me and My Friends :active, 2026-10-16 19:00, 2026-10-16 20:15
     Free :done, 2026-10-16 20:15, 2026-10-16 21:30
     Kefaya & Elaha Soroor :active, 2026-10-16 21:30, 2026-10-17 00:15
     Free :done, 2026-10-17 00:15, 2026-10-17 00:45
